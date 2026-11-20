@@ -5,7 +5,7 @@
   const DEFAULTS = Object.freeze({
     version: '9.0.12',
     component: 'com.afwsamples.testdpc/com.afwsamples.testdpc.DeviceAdminReceiver',
-    apkUrl: 'https://github.com/googlesamples/android-testdpc/releases/download/v9.0.12/TestDPC_9.0.12.apk',
+    apkUrl: 'https://github.com/kdoggmdf/testdpc-qr/releases/download/archive-2026-11-20/TestDPC_9.0.12.apk',
     // SHA-256 of the complete, unmodified release APK (not its signing certificate).
     sha256: 'aad38c1f608b1c7289405c4e866977f5d231502643ce2e2401a7c305808f9c00'
   });

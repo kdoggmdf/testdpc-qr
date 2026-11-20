@@ -22,8 +22,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-The TestDPC APK is not bundled or modified. It is downloaded directly by the
-Android device from the upstream release URL. TestDPC is an Android Open Source
+The TestDPC APK is archived without modification in this fork's release. It is
+downloaded by the Android device from that backup URL. TestDPC is an Android Open Source
 Project sample under the Apache License 2.0:
 https://github.com/googlesamples/android-testdpc/blob/master/LICENSE
 

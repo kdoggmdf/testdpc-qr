@@ -1,0 +1,26 @@
+{
+  "captured": "2026-11-20",
+  "generator": {
+    "source": "https://github.com/sanrax/testdpc-qr",
+    "sourceCommit": "4e2153b0ebb3282dea7b8fcea19b65181f8e5fbb",
+    "originalPage": "https://sanrax.github.io/testdpc-qr/",
+    "mirror": "https://kdoggmdf.github.io/testdpc-qr/",
+    "license": "MIT",
+    "intentionalChanges": [
+      "Default APK URL points to the byte-identical backup release. Documentation, provenance and tests added."
+    ]
+  },
+  "apk": {
+    "name": "TestDPC_9.0.12.apk",
+    "package": "com.afwsamples.testdpc",
+    "versionName": "9.0.12",
+    "versionCode": 9012,
+    "signerCertificateSha256": "8090f6630b4e8962479123249087cb4658feaae36a1b57dbeafd74d109b333dc",
+    "size": 11054659,
+    "sha256": "aad38c1f608b1c7289405c4e866977f5d231502643ce2e2401a7c305808f9c00",
+    "originalUrl": "https://github.com/googlesamples/android-testdpc/releases/download/v9.0.12/TestDPC_9.0.12.apk",
+    "backupUrl": "https://github.com/kdoggmdf/testdpc-qr/releases/download/archive-2026-11-20/TestDPC_9.0.12.apk",
+    "sourceTag": "https://github.com/googlesamples/android-testdpc/tree/v9.0.12",
+    "license": "Apache-2.0"
+  }
+}

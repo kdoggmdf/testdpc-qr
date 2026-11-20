@@ -1,5 +1,7 @@
 # TestDPC COPE QR
 
+Preserved copy with its own APK archive and live site. See [archive provenance and use](ARCHIVE.md). Open [this fork's generator](https://kdoggmdf.github.io/testdpc-qr/).
+
 #### https://sanrax.github.io/testdpc-qr/
 
 A static, browser-local enrollment QR generator using the unmodified official
@@ -60,4 +62,4 @@ This will be updated as new TestDPC versions come out.
 - [GitHub Pages availability](https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages)
 
 Project code: MIT. Vendored QR encoder: MIT; see `dist/THIRD_PARTY_NOTICES.txt`.
-TestDPC is downloaded from upstream and is not bundled or modified here.
+TestDPC is downloaded from this fork's pinned backup release and is not modified. Its original release URL and exact checksum are recorded in `archive-manifest.json`.
