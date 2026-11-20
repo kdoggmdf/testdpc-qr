@@ -59,3 +59,9 @@ test('static scripts are local and the site blocks network submissions', () => {
   assert.match(html, /form-action 'none'/);
   for (const match of html.matchAll(/<script\b[^>]*src="([^"]+)"/g)) assert.ok(!match[1].includes('://'));
 });
+
+test('displayed removal choices follow the owner-confirmed Reddit procedure', () => {
+  const html = fs.readFileSync(require('node:path').join(__dirname, '../dist/index.html'), 'utf8');
+  assert.match(html, /select <strong>External storage<\/strong> and <strong>Factory reset protection<\/strong>/);
+  assert.match(html, /work-profile TestDPC → Data wipe → Remove work profile/);
+});

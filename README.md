@@ -33,8 +33,10 @@ On the phone, open **the work-profile TestDPC** (briefcase badge). Find:
 
 **Data wipe → Remove work profile**
 
-Leave the external-storage and reset-protection options unchecked, then confirm.
-This deletes the work profile, its apps and its data. Android documents that
+Select **External storage** and **Factory reset protection** under **Also wipe**,
+then confirm. This follows the repository owner's selected Reddit procedure and
+wipes external storage and reset-protection data along with the work profile.
+Android documents that
 `wipeData(0)` called by the organization-owned managed-profile owner relinquishes
 the device for personal use, removing that profile and its policies while
 preserving the personal profile.

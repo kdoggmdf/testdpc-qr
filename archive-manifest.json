@@ -7,7 +7,7 @@
     "mirror": "https://kdoggmdf.github.io/testdpc-qr/",
     "license": "MIT",
     "intentionalChanges": [
-      "Default APK URL points to the byte-identical backup release. Documentation, provenance and tests added."
+      "Default APK URL points to the byte-identical backup release. Displayed removal instructions follow the repository owner-confirmed Reddit external-storage and reset-protection options. Documentation, provenance and tests added."
     ]
   },
   "apk": {
